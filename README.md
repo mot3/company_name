@@ -1,6 +1,8 @@
 # company_name
 
-A new Flutter project.
+Random Company Name
+
+A simple flutter project followed from the main tutorial of the [reference](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1) site.
 
 ## Getting Started
 
