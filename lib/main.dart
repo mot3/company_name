@@ -14,6 +14,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       title: 'Startup Name Generator',
       home: RandomWords(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
